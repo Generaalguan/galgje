@@ -7,7 +7,7 @@
 |1|2|3|4|5|6|7|8|9|10||
 
 ## Score
-![gallow](./images/5.png)
+![gallow](./images/6.png)
 
 ## Beurten
-E, M, G, P, K
+E, M, G, P, K, W
