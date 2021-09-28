@@ -10,4 +10,4 @@
 ![gallow](./images/3.png)
 
 ## Beurten
-E, M
+E, M, G
